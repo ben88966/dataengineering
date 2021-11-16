@@ -1,0 +1,7 @@
+id,fname,lname,age,hiredate,address1,address2,city,state,zip,cellphone,homephone,email
+1,Alan,Palmer,32,12/15/19,1211 Sudan St,n/a,Mobile,AL,36609,5121325343,5125234234,apalmer@yachtmail.com
+2,Susan,Shepard,28,7/21/15,4800 Barkshire Dr,n/a,Pace,FL,32571,5129739834,5129847873,sshepard@yorkdevtraining.com
+3,Justin,Ward,43,8/24/17,12 Nutmeg Ct,n/a,Culver City,CA,90211,6453898502,6459872345,jsward2007@yahoo.com
+4,Alan,Smith,30,6/22/17,2142 Elmwood Pl,n/a,Johnson City,TN,37112,8763238756,8763736548,alsmith999@gmail.com
+5,James,Betternot,26,6/22/17,777 Heavenly Ln,Box 13,Pike City,MN,50877,8880345966,8888567987,james.betternot@hotmail.com
+6,Ralph,White,44,6/23/17,NULL,NULL,NULL,NULL,NULL,3322827765,3328760098,ralph.white264@aol.com
