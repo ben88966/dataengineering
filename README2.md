@@ -5,3 +5,10 @@
 
 # test:
   select * from sales where dept_id = 01004 order by revenue desc;
+
+# test:
+  select * from sales where dept_id = 01004 order by revenue desc;
+  # test:
+  select * from sales where dept_id = 01004 order by revenue desc;
+  # test:
+  select * from sales where dept_id = 01004 order by revenue desc;
